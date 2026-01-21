@@ -1,3 +1,5 @@
-# ECE 264: Data Structures and Algorithms, Part I
-### Programming Assignments for DSA Fall 2025
+# dsa1
+ECE 264: Data Structures and Algorithms, Part I 
+Fall 2025
+Programming Assignments
 
